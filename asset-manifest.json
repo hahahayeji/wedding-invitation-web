@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wedding-invitation-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wedding-invitation-web/static/js/main.f52154bd.chunk.js",
+    "main.js.map": "/wedding-invitation-web/static/js/main.f52154bd.chunk.js.map",
+    "runtime-main.js": "/wedding-invitation-web/static/js/runtime-main.0afb47aa.js",
+    "runtime-main.js.map": "/wedding-invitation-web/static/js/runtime-main.0afb47aa.js.map",
+    "static/js/2.e16f8ef6.chunk.js": "/wedding-invitation-web/static/js/2.e16f8ef6.chunk.js",
+    "static/js/2.e16f8ef6.chunk.js.map": "/wedding-invitation-web/static/js/2.e16f8ef6.chunk.js.map",
+    "index.html": "/wedding-invitation-web/index.html",
+    "precache-manifest.dc1be2bd37f25e814b72511a1d890c4d.js": "/wedding-invitation-web/precache-manifest.dc1be2bd37f25e814b72511a1d890c4d.js",
+    "service-worker.js": "/wedding-invitation-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wedding-invitation-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e16f8ef6.chunk.js.LICENSE.txt": "/wedding-invitation-web/static/js/2.e16f8ef6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wedding-invitation-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afb47aa.js",
+    "static/js/2.e16f8ef6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f52154bd.chunk.js"
+  ]
+}
